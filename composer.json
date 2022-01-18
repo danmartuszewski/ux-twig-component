@@ -1,5 +1,5 @@
 {
-    "name": "symfony/ux-twig-component",
+    "name": "danmartuszewski/ux-twig-component",
     "type": "symfony-bundle",
     "description": "Twig components for Symfony",
     "keywords": [
@@ -7,7 +7,7 @@
         "twig",
         "components"
     ],
-    "homepage": "https://symfony.com",
+    "homepage": "https://kwiziq.com",
     "license": "MIT",
     "authors": [
         {
